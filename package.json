@@ -1,0 +1,25 @@
+{
+  "name": "text-shaper",
+  "version": "0.1.0",
+  "description": "Calculate text layout within shapes",
+  "author": "PlastikMaykr",
+  "license": "ISC",
+  "keywords": [
+    "text",
+    "layout",
+    "shape",
+    "circle",
+    "fit"
+  ],
+  "type": "module",
+  "exports": {
+    "default": "./index.js",
+    "types": "./index.d.ts"
+  },
+  "files": [
+    "text-shaper.js",
+    "formatters.js",
+    "index.js",
+    "index.d.ts"
+  ]
+}
