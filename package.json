@@ -1,5 +1,5 @@
 {
-  "name": "text-shaper",
+  "name": "@plastikmaykr/text-shaper",
   "version": "0.1.0",
   "description": "Calculate text layout within shapes",
   "author": "PlastikMaykr",
